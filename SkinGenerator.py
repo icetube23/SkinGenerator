@@ -12,7 +12,6 @@ class SkinGenerator(tk.Frame):
         self.createWidgets()
         self.getSkins()
         self.loadImages()
-        # Hi
 
     def createWidgets(self):
         # menu widgets
